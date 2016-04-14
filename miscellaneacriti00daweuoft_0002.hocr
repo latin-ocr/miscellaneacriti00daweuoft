@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./miscellaneacriti00daweuoft_0002.png"; bbox 0 0 1858 3198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1577 2935 1650 3041">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1577 2935 1650 3041">
+     <span class='ocr_line' id='line_1_1' title="bbox 1577 2935 1650 3041; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1577 2935 1650 3041; x_wconf 50' lang='grc' dir='ltr'>Θ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1477 3056 1743 3130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1477 3056 1743 3130">
+     <span class='ocr_line' id='line_1_2' title="bbox 1485 3056 1740 3088; baseline 0.031 -8"><span class='ocrx_word' id='word_1_2' title='bbox 1485 3056 1680 3086; x_wconf 72' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1696 3062 1740 3088; x_wconf 71' lang='lat'>01³</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1477 3099 1743 3130; baseline 0.019 -7"><span class='ocrx_word' id='word_1_4' title='bbox 1477 3099 1634 3127; x_wconf 80' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1650 3104 1743 3130; x_wconf 68' lang='lat' dir='ltr'>mess</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1425 2798 1799 3187">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1425 2798 1799 3187">
+     <span class='ocr_line' id='line_1_4' title="bbox 1425 2798 1799 3187; baseline 0 11"><span class='ocrx_word' id='word_1_6' title='bbox 1425 2798 1799 3187; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
